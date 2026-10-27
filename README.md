@@ -1,3 +1,3 @@
-# Reconstruction (بازسازی) — privacy policy
+# Memory Thief (دزد خاطره) — privacy policy
 
 Public privacy policy and support page for the game. Live at https://arminap99.github.io/bazsazi-privacy/
